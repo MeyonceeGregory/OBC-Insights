@@ -8,7 +8,7 @@ OBC Insights exists to help people understand the tech market and build a smarte
 
 OBC Insights provides insight into tech hiring trends, skill development, and career growth with a focus on the Research Triangle Park (RTP) area and the evolving technology job market.
 
-Through data, practical tools, and industry perspectives, we aim to help people navigate RTP tech jobs, understand hiring demand, and build stronger pathways into software engineering, IT, and technology careers.
+Through data, practical tools, and industry perspectives, I aim to help people navigate RTP tech jobs, understand hiring demand, and build stronger pathways into software engineering, IT, and technology careers.
 
 ## What I Aim to Build
 
